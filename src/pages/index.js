@@ -1,5 +1,5 @@
 //our-domain.com
-// no need for react import..
+// no need for react import...
 
 function HomePage() {
   return <h1>The Home Page</h1>;
